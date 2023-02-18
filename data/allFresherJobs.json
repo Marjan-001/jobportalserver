@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "jobTittle": "Frontend Developer",
+        "location": "Dhaka",
+        "position": "Intern",
+        "company": "Boolean Tech"
+    },
+    {
+        "id": "2",
+        "jobTittle": "Backend Developer",
+        "location": "Dhaka",
+        "position": "Intern",
+        "company": "Tech Ltd"
+    },
+    {
+        "id": "3",
+        "jobTittle": "UI/UX Designer",
+        "location": "Dhaka",
+        "position": "Intern Designer",
+        "company": "Algo Point"
+    },
+    {
+        "id": "4",
+        "jobTittle": "Data Analyst",
+        "location": "Ctg",
+        "position": "Intern",
+        "company": "Datum"
+    },
+    {
+        "id": "5",
+        "jobTittle": "Frontend Developer",
+        "location": "Dhaka",
+        "position": "Intern",
+        "company": "Boolean Tech"
+    },
+    {
+        "id": "6",
+        "jobTittle": "Graphic Designer",
+        "location": "Dhaka",
+        "position": "Intern",
+        "company": "Design IT"
+    },
+    {
+        "id": "7",
+        "jobTittle": "Frontend Developer",
+        "location": "Dhaka",
+        "position": "Intern",
+        "company": "Boolean Tech"
+    },
+    {
+        "id": "8",
+        "jobTittle": "JavaScript Developer",
+        "location": "Dhaka",
+        "position": "Intern",
+        "company": "Coder Point"
+    }
+]

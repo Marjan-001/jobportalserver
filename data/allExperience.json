@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "jobTittle": "Senior Frontend Developer",
+        "location": "Dhaka",
+        "position": "Senior developer",
+        "company": "Boolean Tech",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGBEOcjPPVl-dKhMQLag_OaUnSQP-5JbOPiQ&usqp=CAU"
+    },
+    {
+        "id": "2",
+        "jobTittle": "Senior Backend Developer",
+        "location": "Dhaka",
+        "position": "Senior developer",
+        "company": "Tech Ltd",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWprqflCC-bWT1VPIn2Pp30t9lAFMzCkjPNXkOeP-l0I7Iw9kZFiMLplln04m-6Z4pUMU&usqp=CAU"
+    },
+    {
+        "id": "3",
+        "jobTittle": "UI/UX Designer",
+        "location": "Dhaka",
+        "position": "Senior Designer",
+        "company": "Algo Point",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYugcd50H-J9k2aqtQ8GgebajaY3aMC7k7uw&usqp=CAU"
+    },
+    {
+        "id": "4",
+        "jobTittle": "Data Analyst",
+        "location": "Ctg",
+        "position": "Data Engineer",
+        "company": "Datum",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWprqflCC-bWT1VPIn2Pp30t9lAFMzCkjPNXkOeP-l0I7Iw9kZFiMLplln04m-6Z4pUMU&usqp=CAU"
+    },
+    {
+        "id": "5",
+        "jobTittle": "Full Stack Developer",
+        "location": "Dhaka",
+        "position": "Software Engineer",
+        "company": "Boolean Tech",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGBEOcjPPVl-dKhMQLag_OaUnSQP-5JbOPiQ&usqp=CAU"
+    },
+    {
+        "id": "6",
+        "jobTittle": "Graphic Designer",
+        "location": "Dhaka",
+        "position": "Head of Team",
+        "company": "Design IT",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFLXtmEc8Ghp_-X1M3Nd_6oywNgNFzLK0eesymjYCpsVlmxnA2erQDgPDi2uRk9kFIwkA&usqp=CAU"
+    },
+    {
+        "id": "7",
+        "jobTittle": "JavaScript Developer",
+        "location": "Dhaka",
+        "position": "Senior",
+        "company": "Boolean Tech",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8PNRiBdDURiWMLKVqXQ27uucqxuC_cn0E-A&usqp=CAU"
+    },
+    {
+        "id": "8",
+        "jobTittle": "Python Developer",
+        "location": "Dhaka",
+        "position": "Senior",
+        "company": "Coder Point",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxhj6l9gXgxdxwmIel8q8csj0Q0wTcPoa4w&usqp=CAU"
+    }
+]
